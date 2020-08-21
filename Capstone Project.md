@@ -1,4 +1,4 @@
-﻿eir# Introduction/Business Problem
+# Introduction/Business Problem
 The COVID-19 pandemic has taken an unprecedented toll globally, already affecting over 2M people, taking over 200K lives and, according to WEF, will likely cost the world 2 trillion USD in economic losses.
 
 In the Philippines, the responsibility of managing the quarantine falls on the shoulders of the mayors of the cities and municipalities.
